@@ -1,6 +1,6 @@
 📸 GOOGLE : PAGE D'ACCUEIL
 
-Bienvenue dans la page d'accueil de Google, une réplique de la page d'accueil de Google que j'ai réalisée pour mettre en pratique mes compétences en HTML & CSS . Ce projet vise à reproduire le design et le comportement de la page d'accueil d'Instagram, y compris le formulaire de connexion et l'affichage des images.
+Bienvenue dans la page d'accueil de Google, une réplique de la page d'accueil de Google que j'ai réalisée pour mettre en pratique mes compétences en HTML & CSS . Ce projet vise à reproduire le design et le comportement de sa page d'accueil, y compris la barre de recherche et l'affichage des images.
 
 🛠️ Technologies Utilisées
 
